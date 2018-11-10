@@ -1,0 +1,69 @@
+{
+ "_querystr": "select * from geo.places where text='celle,de'",
+ "query": {
+  "count": 1,
+  "created": "2016-05-07T23:12:13Z",
+  "lang": "de",
+  "results": {
+   "place": {
+    "lang": "en-US",
+    "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+    "yahoo": "http://www.yahooapis.com/v1/base.rng",
+    "uri": "http://where.yahooapis.com/v1/place/643099",
+    "woeid": "643099",
+    "placeTypeName": {
+     "code": "7",
+     "content": "Town"
+    },
+    "name": "Celle",
+    "country": {
+     "code": "DE",
+     "type": "Country",
+     "woeid": "23424829",
+     "content": "Germany"
+    },
+    "admin1": {
+     "code": "DE-NI",
+     "type": "Land",
+     "woeid": "2345486",
+     "content": "Lower Saxony"
+    },
+    "admin2": {
+     "code": "",
+     "type": "District",
+     "woeid": "12596807",
+     "content": "Landkreis Celle"
+    },
+    "admin3": null,
+    "locality1": {
+     "type": "Town",
+     "woeid": "643099",
+     "content": "Celle"
+    },
+    "locality2": null,
+    "postal": null,
+    "centroid": {
+     "latitude": "52.625061",
+     "longitude": "10.08626"
+    },
+    "boundingBox": {
+     "southWest": {
+      "latitude": "52.581089",
+      "longitude": "10.00288"
+     },
+     "northEast": {
+      "latitude": "52.664452",
+      "longitude": "10.1289"
+     }
+    },
+    "areaRank": "1",
+    "popRank": "1",
+    "timezone": {
+     "type": "Time Zone",
+     "woeid": "28350890",
+     "content": "Europe/Berlin"
+    }
+   }
+  }
+ }
+}

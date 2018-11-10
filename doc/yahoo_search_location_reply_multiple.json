@@ -1,0 +1,637 @@
+{
+  "query": {
+    "count": 10,
+    "created": "2016-05-22T21:15:12Z",
+    "lang": "de-DE",
+    "results": {
+      "place": [
+        {
+          "admin1": {
+            "code": "DE-NI",
+            "content": "Lower Saxony",
+            "type": "Land",
+            "woeid": "2345486"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Landkreis Celle",
+            "type": "District",
+            "woeid": "12596807"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "52.664452",
+              "longitude": "10.1289"
+            },
+            "southWest": {
+              "latitude": "52.581089",
+              "longitude": "10.00288"
+            }
+          },
+          "centroid": {
+            "latitude": "52.625061",
+            "longitude": "10.08626"
+          },
+          "country": {
+            "code": "DE",
+            "content": "Germany",
+            "type": "Country",
+            "woeid": "23424829"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "643099"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": null,
+          "timezone": {
+            "content": "Europe/Berlin",
+            "type": "Time Zone",
+            "woeid": "28350890"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/643099",
+          "woeid": "643099",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-LM",
+            "content": "Lombardy",
+            "type": "Region",
+            "woeid": "7153338"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Brescia",
+            "type": "Province",
+            "woeid": "12591840"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "45.54158",
+              "longitude": "10.4177"
+            },
+            "southWest": {
+              "latitude": "45.537708",
+              "longitude": "10.41176"
+            }
+          },
+          "centroid": {
+            "latitude": "45.539322",
+            "longitude": "10.41509"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "29334335"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "25080",
+            "type": "Postal Code",
+            "woeid": "12845025"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/29334335",
+          "woeid": "29334335",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "",
+            "content": "Centre region",
+            "type": "Region",
+            "woeid": "7153314"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Loir-et-Cher",
+            "type": "Department",
+            "woeid": "12597147"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "47.857689",
+              "longitude": "0.80201"
+            },
+            "southWest": {
+              "latitude": "47.82164",
+              "longitude": "0.76745"
+            }
+          },
+          "centroid": {
+            "latitude": "47.835369",
+            "longitude": "0.78229"
+          },
+          "country": {
+            "code": "FR",
+            "content": "France",
+            "type": "Country",
+            "woeid": "23424819"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "583550"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "41360",
+            "type": "Postal Code",
+            "woeid": "12724925"
+          },
+          "timezone": {
+            "content": "Europe/Paris",
+            "type": "Time Zone",
+            "woeid": "28350911"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/583550",
+          "woeid": "583550",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-ER",
+            "content": "Emilia Romagna",
+            "type": "Region",
+            "woeid": "7153334"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Ravenna",
+            "type": "Province",
+            "woeid": "12591886"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "44.291489",
+              "longitude": "11.83601"
+            },
+            "southWest": {
+              "latitude": "44.290211",
+              "longitude": "11.83409"
+            }
+          },
+          "centroid": {
+            "latitude": "44.290779",
+            "longitude": "11.83504"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "20119611"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "48018",
+            "type": "Postal Code",
+            "woeid": "12846223"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/20119611",
+          "woeid": "20119611",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-CM",
+            "content": "Campania",
+            "type": "Region",
+            "woeid": "7153333"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Salerno",
+            "type": "Province",
+            "woeid": "12591805"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "40.098671",
+              "longitude": "15.40805"
+            },
+            "southWest": {
+              "latitude": "40.09201",
+              "longitude": "15.39779"
+            }
+          },
+          "centroid": {
+            "latitude": "40.095211",
+            "longitude": "15.40277"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "713683"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "84040",
+            "type": "Postal Code",
+            "woeid": "12847362"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/713683",
+          "woeid": "713683",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-PM",
+            "content": "Piedmont",
+            "type": "Region",
+            "woeid": "7153341"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Cuneo",
+            "type": "Province",
+            "woeid": "12591824"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "44.580872",
+              "longitude": "7.00927"
+            },
+            "southWest": {
+              "latitude": "44.578991",
+              "longitude": "7.006"
+            }
+          },
+          "centroid": {
+            "latitude": "44.579861",
+            "longitude": "7.00751"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "20119615"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "12020",
+            "type": "Postal Code",
+            "woeid": "12844135"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/20119615",
+          "woeid": "20119615",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-UM",
+            "content": "Umbria",
+            "type": "Region",
+            "woeid": "7153347"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Perugia",
+            "type": "Province",
+            "woeid": "12591817"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "42.915321",
+              "longitude": "12.85124"
+            },
+            "southWest": {
+              "latitude": "42.914349",
+              "longitude": "12.84939"
+            }
+          },
+          "centroid": {
+            "latitude": "42.914841",
+            "longitude": "12.8503"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "20119613"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "06030",
+            "type": "Postal Code",
+            "woeid": "12843781"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/20119613",
+          "woeid": "20119613",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-TC",
+            "content": "Tuscany",
+            "type": "Region",
+            "woeid": "7153345"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Siena",
+            "type": "Province",
+            "woeid": "12591803"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "42.865059",
+              "longitude": "11.82594"
+            },
+            "southWest": {
+              "latitude": "42.860569",
+              "longitude": "11.81882"
+            }
+          },
+          "centroid": {
+            "latitude": "42.86277",
+            "longitude": "11.82203"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "713686"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "53040",
+            "type": "Postal Code",
+            "woeid": "12846393"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/713686",
+          "woeid": "713686",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-TC",
+            "content": "Tuscany",
+            "type": "Region",
+            "woeid": "7153345"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Prato",
+            "type": "Province",
+            "woeid": "15022639"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "44.053261",
+              "longitude": "11.16053"
+            },
+            "southWest": {
+              "latitude": "44.050678",
+              "longitude": "11.15858"
+            }
+          },
+          "centroid": {
+            "latitude": "44.051971",
+            "longitude": "11.15953"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "29336999"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "59023",
+            "type": "Postal Code",
+            "woeid": "12846614"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/29336999",
+          "woeid": "29336999",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        },
+        {
+          "admin1": {
+            "code": "IT-UM",
+            "content": "Umbria",
+            "type": "Region",
+            "woeid": "7153347"
+          },
+          "admin2": {
+            "code": "",
+            "content": "Perugia",
+            "type": "Province",
+            "woeid": "12591817"
+          },
+          "admin3": null,
+          "areaRank": "1",
+          "boundingBox": {
+            "northEast": {
+              "latitude": "43.483231",
+              "longitude": "12.16737"
+            },
+            "southWest": {
+              "latitude": "43.481831",
+              "longitude": "12.16557"
+            }
+          },
+          "centroid": {
+            "latitude": "43.48259",
+            "longitude": "12.16643"
+          },
+          "country": {
+            "code": "IT",
+            "content": "Italy",
+            "type": "Country",
+            "woeid": "23424853"
+          },
+          "lang": "en-US",
+          "locality1": {
+            "content": "Celle",
+            "type": "Town",
+            "woeid": "29339806"
+          },
+          "locality2": null,
+          "name": "Celle",
+          "placeTypeName": {
+            "code": "7",
+            "content": "Town"
+          },
+          "popRank": "1",
+          "postal": {
+            "content": "06011",
+            "type": "Postal Code",
+            "woeid": "12843762"
+          },
+          "timezone": {
+            "content": "Europe/Rome",
+            "type": "Time Zone",
+            "woeid": "28350914"
+          },
+          "uri": "http://where.yahooapis.com/v1/place/29339806",
+          "woeid": "29339806",
+          "xmlns": "http://where.yahooapis.com/v1/schema.rng",
+          "yahoo": "http://www.yahooapis.com/v1/base.rng"
+        }
+      ]
+    }
+  }
+}

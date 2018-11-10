@@ -1,0 +1,149 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2016-04-23T00:12:32Z",
+    "lang": "de",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "km",
+          "pressure": "mb",
+          "speed": "km/h",
+          "temperature": "C"
+        },
+        "title": "Yahoo! Weather - Aachen, North Rhine-Westphalia, DE",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-633175/",
+        "description": "Yahoo! Weather for Aachen, North Rhine-Westphalia, DE",
+        "language": "en-us",
+        "lastBuildDate": "Sat, 23 Apr 2016 02:12 AM CEST",
+        "ttl": "60",
+        "location": {
+          "city": "Aachen",
+          "country": "Germany",
+          "region": " North Rhine-Westphalia"
+        },
+        "wind": {
+          "chill": "43",
+          "direction": "10",
+          "speed": "17.70"
+        },
+        "atmosphere": {
+          "humidity": "69",
+          "pressure": "33491.40",
+          "rising": "0",
+          "visibility": "25.91"
+        },
+        "astronomy": {
+          "sunrise": "6:22 am",
+          "sunset": "8:46 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Aachen, North Rhine-Westphalia, DE at 01:00 AM CEST",
+          "lat": "50.778229",
+          "long": "6.08864",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-633175/",
+          "pubDate": "Sat, 23 Apr 2016 01:00 AM CEST",
+          "condition": {
+            "code": "26",
+            "date": "Sat, 23 Apr 2016 01:00 AM CEST",
+            "temp": "8",
+            "text": "Cloudy"
+          },
+          "forecast": [
+            {
+              "code": "28",
+              "date": "23 Apr 2016",
+              "day": "Sat",
+              "high": "8",
+              "low": "4",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "12",
+              "date": "24 Apr 2016",
+              "day": "Sun",
+              "high": "8",
+              "low": "2",
+              "text": "Rain"
+            },
+            {
+              "code": "11",
+              "date": "25 Apr 2016",
+              "day": "Mon",
+              "high": "8",
+              "low": "1",
+              "text": "Showers"
+            },
+            {
+              "code": "47",
+              "date": "26 Apr 2016",
+              "day": "Tue",
+              "high": "6",
+              "low": "2",
+              "text": "Scattered Thunderstorms"
+            },
+            {
+              "code": "12",
+              "date": "27 Apr 2016",
+              "day": "Wed",
+              "high": "8",
+              "low": "1",
+              "text": "Rain"
+            },
+            {
+              "code": "47",
+              "date": "28 Apr 2016",
+              "day": "Thu",
+              "high": "10",
+              "low": "2",
+              "text": "Scattered Thunderstorms"
+            },
+            {
+              "code": "28",
+              "date": "29 Apr 2016",
+              "day": "Fri",
+              "high": "11",
+              "low": "3",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "28",
+              "date": "30 Apr 2016",
+              "day": "Sat",
+              "high": "12",
+              "low": "5",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "12",
+              "date": "01 May 2016",
+              "day": "Sun",
+              "high": "12",
+              "low": "5",
+              "text": "Rain"
+            },
+            {
+              "code": "12",
+              "date": "02 May 2016",
+              "day": "Mon",
+              "high": "13",
+              "low": "6",
+              "text": "Rain"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sat - Mostly Cloudy. High: 8Low: 4\n<BR /> Sun - Rain. High: 8Low: 2\n<BR /> Mon - Showers. High: 8Low: 1\n<BR /> Tue - Scattered Thunderstorms. High: 6Low: 2\n<BR /> Wed - Rain. High: 8Low: 1\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-633175/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}
