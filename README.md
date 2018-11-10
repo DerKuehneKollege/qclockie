@@ -1,6 +1,8 @@
-# QClockie Project Setup
+# QClockie
 
-## Windows (x32), MinGW 4.9.2, Qt 5.6
+QClockie is a small digital clock widget with alarm and weather functionality.
+
+## Building for Windows (x32), MinGW 4.9.2, Qt 5.6
 
 - In CMakeList.txt setup CMAKE_PREFIX_PATH to directory contining Qt (e.g. C:\\Dev\\Qt\\5.6\\mingw49_32\\)
 - CLion: Setup CMake output path to ".\bin" (Settings > Build, Execution, Deployment > CMake)
