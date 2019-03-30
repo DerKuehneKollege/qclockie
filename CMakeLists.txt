@@ -24,14 +24,15 @@ set(CMAKE_AUTOUIC ON) # Handle the Qt UIC (Forms) code generation automatically
 set(CMAKE_AUTORCC ON) # Handle the Qt RCC (Resources) code generation automatically
 
 # set directory containing Qt includes and libraries for MinGW
+
+set(CMAKE_PREFIX_PATH "C:\\Dev\\Qt\\5.12.2\\mingw73_64\\lib\\cmake") # To be modified pointing to Qt CMake libs dir
 if(WIN32)
-    set(CMAKE_PREFIX_PATH "C:\\Dev\\Qt\\5.12.2\\mingw73_64\\lib\\cmake") # To be modified pointing to Qt CMake libs dir
 endif()
 
 # compiler flags
 # note: option -D__NO_INLINE__ necessary due to MinGW bug, can maybe removed later
-set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -Wall")
-set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -mwindows -D__NO_INLINE__")
+#set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -Wall")
+#set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -mwindows -D__NO_INLINE__")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${Qt5Widgets_EXECUTABLE_COMPILE_FLAGS}")
 
 # source files to be compiled
