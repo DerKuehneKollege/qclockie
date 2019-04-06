@@ -22,7 +22,6 @@
 
 # CMake
 cmake-build-*/
-.gitignore
 .idea/.name
 .idea/misc.xml
 .idea/modules.xml
